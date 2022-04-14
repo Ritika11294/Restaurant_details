@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    /* border: 1px solid red; */
+    width: 35rem;
+  
+    margin: auto;
+}
+.image{
+    margin-top: 10px;
+    border: 1px solid black;
+
+}
+
+@media screen  {
+    
+}
